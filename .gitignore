@@ -1,0 +1,4 @@
+# Project exclude paths
+/guess-price/.gradle/
+/guess-price/build/
+/guess-price/build/classes/kotlin/main/
